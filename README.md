@@ -60,6 +60,8 @@ Rank 1 loaded 10000 samples.
 全局准确率 (Global Accuracy): 0.7300
 ================================================
 ```
+**用自己写的vit-transformer**
+<img width="1110" height="674" alt="image" src="https://github.com/user-attachments/assets/b5ce0efa-fea8-46b9-9198-b767f2b6ec03" />
 
 ### 1. 多 GPU 启动
 使用 `torchrun`：
@@ -138,5 +140,6 @@ clip_grad_norm_(model.parameters(), max_norm=1.0)
 
 
 本项目仅用于科研与学习。
+
 
 
