@@ -38,11 +38,11 @@ IMAGENET_STD = [0.229, 0.224, 0.225]
 ---
 
 ## 🚀 训练
-![alt text](image-1.png)
+<img width="2085" height="767" alt="image" src="https://github.com/user-attachments/assets/e3a7a55c-41b0-479f-bf37-1f5b6c1761d5" />
 
-![alt text](image-2.png)
+<img width="2084" height="850" alt="image" src="https://github.com/user-attachments/assets/fbc6cb49-104f-4e55-aa99-ec4623886bba" />
 
-![alt text](image-3.png)
+<img width="2081" height="844" alt="image" src="https://github.com/user-attachments/assets/6bf8f737-6b3a-4ce1-be2a-6425ee36edc6" />
 
 ## 推理
 ```
@@ -138,4 +138,5 @@ clip_grad_norm_(model.parameters(), max_norm=1.0)
 
 
 本项目仅用于科研与学习。
+
 
